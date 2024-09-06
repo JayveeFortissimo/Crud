@@ -1,3 +1,4 @@
+// This code is for my student SAM
 let items = [];
 let number = 100;
    let id = 1;
